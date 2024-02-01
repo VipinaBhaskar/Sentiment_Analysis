@@ -5,7 +5,7 @@ Build binary classification that puts movie reviews texts into one of two catego
 
 Dataset:- https://thecleverprogrammer.com/wp-content/uploads/2020/05/IMDB-Dataset.csv
 
-Models:- GaussianNB,MultinomialNB,BernoulliNB
+Models:- GaussianNB, MultinomialNB, BernoulliNB
 
 Output
 
